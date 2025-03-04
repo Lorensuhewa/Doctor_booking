@@ -1,0 +1,52 @@
+{
+  "hash": "bf47f34d",
+  "configHash": "94d62f6e",
+  "lockfileHash": "529ed6f1",
+  "browserHash": "5cd19cd5",
+  "optimized": {
+    "@mui/icons-material/ArrowDropDown": {
+      "src": "../../node_modules/@mui/icons-material/esm/ArrowDropDown.js",
+      "file": "@mui_icons-material_ArrowDropDown.js",
+      "fileHash": "e1f1fd24",
+      "needsInterop": false
+    },
+    "prop-types": {
+      "src": "../../node_modules/prop-types/index.js",
+      "file": "prop-types.js",
+      "fileHash": "798a32de",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "df1bb9f0",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "06639e36",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "3cb1c547",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-IPYILTUR": {
+      "file": "chunk-IPYILTUR.js"
+    },
+    "chunk-ZLRLGKWC": {
+      "file": "chunk-ZLRLGKWC.js"
+    },
+    "chunk-4SFRHSJ3": {
+      "file": "chunk-4SFRHSJ3.js"
+    },
+    "chunk-EQCVQC35": {
+      "file": "chunk-EQCVQC35.js"
+    }
+  }
+}
